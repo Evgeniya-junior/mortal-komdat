@@ -3,5 +3,6 @@
 ### Технологии:
 -HTML
 -CSS
+-Normalize
 -JQeury
 -Fancybox(JQuery)
